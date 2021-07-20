@@ -228,3 +228,15 @@ function arrayOfHiNTimes(n) {
 arrayOfHiNTimes(6)// O(n)
 
 ```
+
+# Search Digital Tree
+
+## Trie
+* Trie - Prefix Tree or Radix Tree
+* Named by Edward Fredklin, and refers the word 'trie'
+* Most used to search words in strings
+
+* Prefix Tree - Radix Tree
+  * search for prefix strings
+  * Starting from root can find any character sequence
+
